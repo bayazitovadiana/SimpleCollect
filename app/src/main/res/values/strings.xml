@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Простой сбор данных</string>
+    <string name="code_text">Сканировать штрихкод</string>
+    <string name="write_file">Записать в файл</string>
+    <string name="write_file_sd">Сохранить файл</string>
+
+    <string name="arraylist_add">Записать товар</string>
+</resources>
